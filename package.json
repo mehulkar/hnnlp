@@ -1,0 +1,18 @@
+{
+  "name": "hnnlp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "hnindex": "~0.1.1",
+    "natural": "~0.1.21",
+    "WNdb": "~3.0.1",
+    "treeify": "~1.0.1",
+    "express": "~3.3.4"
+  }
+}
